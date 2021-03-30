@@ -19,9 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 <table border="2" align="center">
   
   <tr>
-    <td ><img src="https://github.com/mahirkursun/WebToView/blob/main/gif/webtoview.gif"/></td>
+    <td ><img src="https://github.com/mahirkursun/WebToView/blob/main/gif/webtoview.gif" width="450"/></td>
 
   </tr>
 
 </table>
-gif/webtoview.gif
